@@ -1,0 +1,22 @@
+.card{
+    background-image:url(checkbal.png);
+}
+.card{
+    background-image: url(deposit.jpg);
+}
+.card{
+    background-image:url(withdraw.jpg) ; 
+}
+.card{
+    background-image: url(transfer.jpg);
+}
+footer{
+    width:100%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(151, 159, 165);
+    bottom: 0;
+    position: fixed;
+}
+
